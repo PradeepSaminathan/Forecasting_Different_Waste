@@ -1,2 +1,2 @@
 # Forecasting_different_Waste
-This file contains code for forecasting different wastes in the region of Buffalo.
+This file contains code to forecast different waste types in the region of Buffalo.
